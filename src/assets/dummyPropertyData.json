@@ -1,0 +1,3802 @@
+[
+  {
+    "state": "Nebraska",
+    "country": "United States",
+    "location": "3 Schiller Circle",
+    "property Name": "The Velvet Vista",
+    "when": "After 2 months",
+    "price": 1720,
+    "property_type": "Villa",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "size": 1400,
+    "amenities": ["Garden", "Backyard"],
+    "contact": {
+      "name": "Bary Nano",
+      "phone": "402-830-7117",
+      "email": "bnano0@yellowpages.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Illinois",
+    "country": "United States",
+    "location": "030 Brentwood Circle",
+    "property Name": "The Iris Indigo",
+    "when": "After 3 months",
+    "price": 1857,
+    "property_type": "Villa",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size": 5000,
+    "amenities": ["Balcony"],
+    "contact": {
+      "name": "Giuseppe Mc Grath",
+      "phone": "312-256-6050",
+      "email": "gmc1@flickr.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/1115804/pexels-photo-1115804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Florida",
+    "country": "United States",
+    "location": "0803 Drewry Terrace",
+    "property Name": "The Whispering Willows",
+    "when": "After 3 months",
+    "price": 1986,
+    "property_type": "Apartment",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "size": 5000,
+    "amenities": ["Balcony", "Air Conditioning"],
+    "contact": {
+      "name": "Wyatt Putson",
+      "phone": "850-902-4458",
+      "email": "wputson2@tumblr.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/347141/pexels-photo-347141.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Washington",
+    "country": "United States",
+    "location": "8 Declaration Street",
+    "property Name": "The Luminescent Lagoon",
+    "when": "After 2 months",
+    "price": 1151,
+    "property_type": "House",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size": 4000,
+    "amenities": ["Backyard", "Fireplace"],
+    "contact": {
+      "name": "Hagan Yea",
+      "phone": "425-403-7913",
+      "email": "hyea3@is.gd"
+    },
+    "imageURL": "https://images.pexels.com/photos/2119714/pexels-photo-2119714.jpeg"
+  },
+  {
+    "state": "Wisconsin",
+    "country": "United States",
+    "location": "3493 Doe Crossing Place",
+    "property Name": "The Celestial Citadel",
+    "when": "After 2 months",
+    "price": 1168,
+    "property_type": "Villa",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "size": 3500,
+    "amenities": ["Garage"],
+    "contact": {
+      "name": "Arlena Parkins",
+      "phone": "414-903-7757",
+      "email": "aparkins4@illinois.edu"
+    },
+    "imageURL": "https://images.pexels.com/photos/209296/pexels-photo-209296.jpeg"
+  },
+  {
+    "state": "Indiana",
+    "country": "United States",
+    "location": "14 Mandrake Court",
+    "property Name": "The Enchanted Evergreen",
+    "when": "Next month",
+    "price": 2052,
+    "property_type": "Villa",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size": 1400,
+    "amenities": ["Air Conditioning"],
+    "contact": {
+      "name": "Peter Twaite",
+      "phone": "317-290-1280",
+      "email": "ptwaite5@sfgate.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Texas",
+    "country": "United States",
+    "location": "24 Hoard Plaza",
+    "property Name": "The Golden Grotto",
+    "when": "Next month",
+    "price": 2022,
+    "property_type": "House",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size": 1400,
+    "amenities": ["Fireplace", "Garden"],
+    "contact": {
+      "name": "Raina Twentyman",
+      "phone": "806-483-7022",
+      "email": "rtwentyman6@vimeo.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/542403/pexels-photo-542403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Missouri",
+    "country": "United States",
+    "location": "59 Clarendon Drive",
+    "property Name": "The Amethyst Arbour",
+    "when": "After 3 months",
+    "price": 1263,
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "size": 3500,
+    "amenities": ["Fireplace", "Laundry Facilities"],
+    "contact": {
+      "name": "Harlene Jewell",
+      "phone": "816-101-1350",
+      "email": "hjewell7@over-blog.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2816323/pexels-photo-2816323.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Montana",
+    "country": "United States",
+    "location": "64921 Kennedy Crossing",
+    "property Name": "The Silken Symphony",
+    "when": "Immediate",
+    "price": 1230,
+    "property_type": "House",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size": 5000,
+    "amenities": ["Laundry Facilities", "Balcony", "Garden"],
+    "contact": {
+      "name": "Domeniga Riply",
+      "phone": "406-718-5553",
+      "email": "driply8@drupal.org"
+    },
+    "imageURL": "https://images.pexels.com/photos/3221215/pexels-photo-3221215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "California",
+    "country": "United States",
+    "location": "540 Evergreen Place",
+    "property Name": "The Radiant Retreat",
+    "when": "After 2 months",
+    "price": 1219,
+    "property_type": "House",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "size": 5000,
+    "amenities": ["Laundry Facilities"],
+    "contact": {
+      "name": "Nanete Shepley",
+      "phone": "951-214-2502",
+      "email": "nshepley9@wiley.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/814830/pexels-photo-814830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "West Virginia",
+    "country": "United States",
+    "location": "4151 Sauthoff Drive",
+    "property Name": "The Opulent Oasis",
+    "when": "Next month",
+    "price": 1651,
+    "property_type": "House",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "size": 4000,
+    "amenities": ["Air Conditioning"],
+    "contact": {
+      "name": "Marlena Keysel",
+      "phone": "304-175-3314",
+      "email": "mkeysela@examiner.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2886284/pexels-photo-2886284.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Ohio",
+    "country": "United States",
+    "location": "255 Duke Drive",
+    "property Name": "The Majestic Mile",
+    "when": "Next month",
+    "price": 2165,
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size": 5000,
+    "amenities": ["Balcony"],
+    "contact": {
+      "name": "Norine Vela",
+      "phone": "440-734-3189",
+      "email": "nvelab@slashdot.org"
+    },
+    "imageURL": "https://images.pexels.com/photos/2121832/pexels-photo-2121832.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Texas",
+    "country": "United States",
+    "location": "94 Bashford Point",
+    "property Name": "The Elite Enclave",
+    "when": "Next month",
+    "price": 1647,
+    "property_type": "Apartment",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "size": 1400,
+    "amenities": ["Air Conditioning", "Fireplace", "Garden"],
+    "contact": {
+      "name": "Donia Burdas",
+      "phone": "214-473-8387",
+      "email": "dburdasc@nyu.edu"
+    },
+    "imageURL": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Virginia",
+    "country": "United States",
+    "location": "4685 Hollow Ridge Park",
+    "property Name": "The Summit Sanctuary",
+    "when": "Immediate",
+    "price": 1858,
+    "property_type": "Apartment",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "size": 3000,
+    "amenities": ["Balcony", "Backyard", "Swimming Pool"],
+    "contact": {
+      "name": "Lou Ivison",
+      "phone": "571-254-1641",
+      "email": "livisond@com.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/1115804/pexels-photo-1115804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "California",
+    "country": "United States",
+    "location": "794 Express Drive",
+    "property Name": "The Regal Residency",
+    "when": "Next month",
+    "price": 1605,
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size": 5000,
+    "amenities": ["Air Conditioning", "Swimming Pool"],
+    "contact": {
+      "name": "Egor Salisbury",
+      "phone": "661-997-8965",
+      "email": "esalisburye@princeton.edu"
+    },
+    "imageURL": "https://images.pexels.com/photos/347141/pexels-photo-347141.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "California",
+    "country": "United States",
+    "location": "0 Dunning Center",
+    "property Name": "The Platinum Penthouse",
+    "when": "Immediate",
+    "price": 1827,
+    "property_type": "House",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "size": 2500,
+    "amenities": ["Balcony", "Laundry Facilities"],
+    "contact": {
+      "name": "Pet Wortt",
+      "phone": "310-768-1479",
+      "email": "pworttf@themeforest.net"
+    },
+    "imageURL": "https://images.pexels.com/photos/2119714/pexels-photo-2119714.jpeg"
+  },
+  {
+    "state": "Texas",
+    "country": "United States",
+    "location": "58832 Dwight Parkway",
+    "property Name": "The Golden Gatehouse",
+    "when": "After 3 months",
+    "price": 1351,
+    "property_type": "Villa",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "size": 4000,
+    "amenities": ["Laundry Facilities", "Fireplace", "Swimming Pool"],
+    "contact": {
+      "name": "Fax Hehir",
+      "phone": "512-981-6846",
+      "email": "fhehirg@icq.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/209296/pexels-photo-209296.jpeg"
+  },
+  {
+    "state": "Ohio",
+    "country": "United States",
+    "location": "73 Gerald Park",
+    "property Name": "The Signature Suite",
+    "when": "After 2 months",
+    "price": 1380,
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "size": 3500,
+    "amenities": ["Air Conditioning", "Swimming Pool", "Garage"],
+    "contact": {
+      "name": "Elliot Hubbert",
+      "phone": "937-778-5358",
+      "email": "ehubberth@paypal.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Pennsylvania",
+    "country": "United States",
+    "location": "82223 Summit Plaza",
+    "property Name": "The Prestige Palace",
+    "when": "Next month",
+    "price": 2018,
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "size": 5000,
+    "amenities": ["Balcony", "Air Conditioning", "Backyard"],
+    "contact": {
+      "name": "Clayson Nossent",
+      "phone": "215-968-4467",
+      "email": "cnossenti@printfriendly.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/542403/pexels-photo-542403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Utah",
+    "country": "United States",
+    "location": "42 Farwell Court",
+    "property Name": "The Velvet Vista",
+    "when": "After 3 months",
+    "price": 1277,
+    "property_type": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size": 5000,
+    "amenities": ["Garden", "Fireplace"],
+    "contact": {
+      "name": "Dirk Gylle",
+      "phone": "801-282-4740",
+      "email": "dgyllej@va.gov"
+    },
+    "imageURL": "https://images.pexels.com/photos/2816323/pexels-photo-2816323.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Nebraska",
+    "country": "United States",
+    "location": "9504 Upham Way",
+    "property Name": "The Iris Indigo",
+    "when": "After 2 months",
+    "price": 2043,
+    "property_type": "House",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size": 3500,
+    "amenities": ["Swimming Pool", "Garden"],
+    "contact": {
+      "name": "Harlene Deviney",
+      "phone": "402-995-5279",
+      "email": "hdevineyk@edublogs.org"
+    },
+    "imageURL": "https://images.pexels.com/photos/3221215/pexels-photo-3221215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Utah",
+    "country": "United States",
+    "location": "91 3rd Drive",
+    "property Name": "The Whispering Willows",
+    "when": "Immediate",
+    "price": 2056,
+    "property_type": "Villa",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "size": 3500,
+    "amenities": ["Garden", "Air Conditioning", "Balcony"],
+    "contact": {
+      "name": "Henrik Aires",
+      "phone": "801-105-9300",
+      "email": "hairesl@discovery.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/814830/pexels-photo-814830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Washington",
+    "country": "United States",
+    "location": "910 Katie Crossing",
+    "property Name": "The Luminescent Lagoon",
+    "when": "Immediate",
+    "price": 1605,
+    "property_type": "Villa",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size": 5000,
+    "amenities": ["Backyard"],
+    "contact": {
+      "name": "Salim Mangan",
+      "phone": "253-164-6604",
+      "email": "smanganm@wufoo.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2886284/pexels-photo-2886284.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Virginia",
+    "country": "United States",
+    "location": "53662 Utah Drive",
+    "property Name": "The Celestial Citadel",
+    "when": "After 2 months",
+    "price": 1064,
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size": 4000,
+    "amenities": ["Swimming Pool", "Garage", "Fireplace"],
+    "contact": {
+      "name": "Saw Bonwell",
+      "phone": "571-723-9070",
+      "email": "sbonwelln@qq.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2121832/pexels-photo-2121832.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Ohio",
+    "country": "United States",
+    "location": "489 Bluestem Lane",
+    "property Name": "The Enchanted Evergreen",
+    "when": "After 2 months",
+    "price": 1851,
+    "property_type": "Villa",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size": 2500,
+    "amenities": ["Swimming Pool", "Laundry Facilities", "Fireplace"],
+    "contact": {
+      "name": "Carmella Gowrich",
+      "phone": "513-822-2713",
+      "email": "cgowricho@netscape.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Tennessee",
+    "country": "United States",
+    "location": "49671 Amoth Point",
+    "property Name": "The Golden Grotto",
+    "when": "Next month",
+    "price": 2074,
+    "property_type": "House",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "size": 1400,
+    "amenities": ["Balcony", "Fireplace"],
+    "contact": {
+      "name": "Velma Groves",
+      "phone": "901-552-4625",
+      "email": "vgrovesp@cpanel.net"
+    },
+    "imageURL": "https://images.pexels.com/photos/1115804/pexels-photo-1115804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Alabama",
+    "country": "United States",
+    "location": "2472 Green Ridge Road",
+    "property Name": "The Amethyst Arbour",
+    "when": "Next month",
+    "price": 1139,
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "size": 2500,
+    "amenities": ["Air Conditioning", "Balcony"],
+    "contact": {
+      "name": "Roth Maccari",
+      "phone": "205-117-3126",
+      "email": "rmaccariq@adobe.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/347141/pexels-photo-347141.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Texas",
+    "country": "United States",
+    "location": "08 Corben Park",
+    "property Name": "The Silken Symphony",
+    "when": "After 3 months",
+    "price": 996,
+    "property_type": "House",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size": 2500,
+    "amenities": ["Garden"],
+    "contact": {
+      "name": "Bambi Loadsman",
+      "phone": "915-301-2694",
+      "email": "bloadsmanr@merriam-webster.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2119714/pexels-photo-2119714.jpeg"
+  },
+  {
+    "state": "Michigan",
+    "country": "United States",
+    "location": "5 Shelley Crossing",
+    "property Name": "The Radiant Retreat",
+    "when": "Next month",
+    "price": 1094,
+    "property_type": "House",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size": 5000,
+    "amenities": ["Air Conditioning"],
+    "contact": {
+      "name": "Cly Murthwaite",
+      "phone": "269-130-9863",
+      "email": "cmurthwaites@behance.net"
+    },
+    "imageURL": "https://images.pexels.com/photos/209296/pexels-photo-209296.jpeg"
+  },
+  {
+    "state": "Colorado",
+    "country": "United States",
+    "location": "3 Scoville Alley",
+    "property Name": "The Opulent Oasis",
+    "when": "Immediate",
+    "price": 1534,
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "size": 1400,
+    "amenities": ["Air Conditioning", "Backyard", "Garage"],
+    "contact": {
+      "name": "Shanna Stollery",
+      "phone": "303-287-8550",
+      "email": "sstolleryt@theatlantic.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "California",
+    "country": "United States",
+    "location": "7 Briar Crest Court",
+    "property Name": "The Majestic Mile",
+    "when": "Next month",
+    "price": 1823,
+    "property_type": "House",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "size": 1800,
+    "amenities": ["Backyard", "Swimming Pool", "Balcony"],
+    "contact": {
+      "name": "Marinna Chable",
+      "phone": "323-261-2060",
+      "email": "mchableu@nasa.gov"
+    },
+    "imageURL": "https://images.pexels.com/photos/542403/pexels-photo-542403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "New York",
+    "country": "United States",
+    "location": "77275 Ilene Way",
+    "property Name": "The Elite Enclave",
+    "when": "Next month",
+    "price": 2055,
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "size": 1400,
+    "amenities": ["Garage"],
+    "contact": {
+      "name": "Tremaine Aleixo",
+      "phone": "347-790-5599",
+      "email": "taleixov@narod.ru"
+    },
+    "imageURL": "https://images.pexels.com/photos/2816323/pexels-photo-2816323.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "New Mexico",
+    "country": "United States",
+    "location": "4 Iowa Plaza",
+    "property Name": "The Summit Sanctuary",
+    "when": "Immediate",
+    "price": 2176,
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size": 1400,
+    "amenities": ["Air Conditioning"],
+    "contact": {
+      "name": "Gilbert Payley",
+      "phone": "505-841-3650",
+      "email": "gpayleyw@mysql.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/3221215/pexels-photo-3221215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "New York",
+    "country": "United States",
+    "location": "70 Farwell Parkway",
+    "property Name": "The Regal Residency",
+    "when": "Immediate",
+    "price": 1422,
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "size": 1800,
+    "amenities": ["Fireplace"],
+    "contact": {
+      "name": "Lenore Karolewski",
+      "phone": "516-394-6194",
+      "email": "lkarolewskix@vistaprint.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/814830/pexels-photo-814830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Florida",
+    "country": "United States",
+    "location": "18 Meadow Vale Way",
+    "property Name": "The Platinum Penthouse",
+    "when": "After 2 months",
+    "price": 1651,
+    "property_type": "House",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "size": 1800,
+    "amenities": ["Swimming Pool", "Fireplace", "Garden"],
+    "contact": {
+      "name": "Alphard Eingerfield",
+      "phone": "561-978-3418",
+      "email": "aeingerfieldy@businessinsider.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2886284/pexels-photo-2886284.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Missouri",
+    "country": "United States",
+    "location": "91 Center Avenue",
+    "property Name": "The Golden Gatehouse",
+    "when": "Immediate",
+    "price": 1739,
+    "property_type": "House",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "size": 4000,
+    "amenities": ["Fireplace"],
+    "contact": {
+      "name": "Nicolea Burn",
+      "phone": "816-202-2301",
+      "email": "nburnz@parallels.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2121832/pexels-photo-2121832.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Hawaii",
+    "country": "United States",
+    "location": "2392 Cardinal Road",
+    "property Name": "The Signature Suite",
+    "when": "After 3 months",
+    "price": 1104,
+    "property_type": "Apartment",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "size": 1800,
+    "amenities": ["Air Conditioning", "Swimming Pool"],
+    "contact": {
+      "name": "Jilly Stanlock",
+      "phone": "808-134-0866",
+      "email": "jstanlock10@buzzfeed.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "California",
+    "country": "United States",
+    "location": "6 Orin Circle",
+    "property Name": "The Prestige Palace",
+    "when": "After 2 months",
+    "price": 917,
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "size": 2500,
+    "amenities": ["Backyard"],
+    "contact": {
+      "name": "Hoebart Boycott",
+      "phone": "650-689-4865",
+      "email": "hboycott11@epa.gov"
+    },
+    "imageURL": "https://images.pexels.com/photos/1115804/pexels-photo-1115804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Texas",
+    "country": "United States",
+    "location": "6153 Blackbird Place",
+    "property Name": "The Velvet Vista",
+    "when": "Immediate",
+    "price": 2169,
+    "property_type": "Villa",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size": 3000,
+    "amenities": ["Swimming Pool", "Garden"],
+    "contact": {
+      "name": "Ardelis Foxon",
+      "phone": "210-205-3829",
+      "email": "afoxon12@about.me"
+    },
+    "imageURL": "https://images.pexels.com/photos/347141/pexels-photo-347141.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Maryland",
+    "country": "United States",
+    "location": "75252 Sundown Pass",
+    "property Name": "The Iris Indigo",
+    "when": "After 3 months",
+    "price": 1000,
+    "property_type": "Villa",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size": 5000,
+    "amenities": ["Air Conditioning"],
+    "contact": {
+      "name": "Zaria Reuther",
+      "phone": "410-225-5559",
+      "email": "zreuther13@psu.edu"
+    },
+    "imageURL": "https://images.pexels.com/photos/2119714/pexels-photo-2119714.jpeg"
+  },
+  {
+    "state": "Ohio",
+    "country": "United States",
+    "location": "7910 Bayside Avenue",
+    "property Name": "The Whispering Willows",
+    "when": "After 3 months",
+    "price": 1922,
+    "property_type": "Villa",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "size": 4000,
+    "amenities": ["Air Conditioning"],
+    "contact": {
+      "name": "Wang Kelcher",
+      "phone": "330-292-5620",
+      "email": "wkelcher14@blogspot.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/209296/pexels-photo-209296.jpeg"
+  },
+  {
+    "state": "New York",
+    "country": "United States",
+    "location": "788 Declaration Lane",
+    "property Name": "The Luminescent Lagoon",
+    "when": "After 2 months",
+    "price": 2170,
+    "property_type": "Villa",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size": 1800,
+    "amenities": ["Balcony"],
+    "contact": {
+      "name": "Alford Abisetti",
+      "phone": "585-482-9441",
+      "email": "aabisetti15@cam.ac.uk"
+    },
+    "imageURL": "https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Virginia",
+    "country": "United States",
+    "location": "9 Arapahoe Junction",
+    "property Name": "The Celestial Citadel",
+    "when": "After 2 months",
+    "price": 1255,
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "size": 2500,
+    "amenities": ["Backyard", "Fireplace", "Balcony"],
+    "contact": {
+      "name": "Danny Draycott",
+      "phone": "804-337-2136",
+      "email": "ddraycott16@miibeian.gov.cn"
+    },
+    "imageURL": "https://images.pexels.com/photos/542403/pexels-photo-542403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Illinois",
+    "country": "United States",
+    "location": "3 Calypso Alley",
+    "property Name": "The Enchanted Evergreen",
+    "when": "After 2 months",
+    "price": 1593,
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size": 3500,
+    "amenities": ["Air Conditioning", "Garage", "Backyard"],
+    "contact": {
+      "name": "Nariko Parsley",
+      "phone": "312-232-6385",
+      "email": "nparsley17@list-manage.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2816323/pexels-photo-2816323.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "New York",
+    "country": "United States",
+    "location": "81725 Towne Center",
+    "property Name": "The Golden Grotto",
+    "when": "Immediate",
+    "price": 2116,
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size": 5000,
+    "amenities": ["Swimming Pool", "Fireplace"],
+    "contact": {
+      "name": "Kevon Hackin",
+      "phone": "315-496-1798",
+      "email": "khackin18@google.es"
+    },
+    "imageURL": "https://images.pexels.com/photos/3221215/pexels-photo-3221215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Tennessee",
+    "country": "United States",
+    "location": "40 High Crossing Plaza",
+    "property Name": "The Amethyst Arbour",
+    "when": "Immediate",
+    "price": 1500,
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size": 3000,
+    "amenities": ["Air Conditioning", "Swimming Pool"],
+    "contact": {
+      "name": "Miguel Proudman",
+      "phone": "423-843-7497",
+      "email": "mproudman19@amazon.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/814830/pexels-photo-814830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "District of Columbia",
+    "country": "United States",
+    "location": "1 Namekagon Plaza",
+    "property Name": "The Silken Symphony",
+    "when": "Next month",
+    "price": 1314,
+    "property_type": "Villa",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "size": 3000,
+    "amenities": ["Garden"],
+    "contact": {
+      "name": "Nevile Castles",
+      "phone": "202-851-5230",
+      "email": "ncastles1a@imgur.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2886284/pexels-photo-2886284.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Kentucky",
+    "country": "United States",
+    "location": "08809 Carberry Hill",
+    "property Name": "The Radiant Retreat",
+    "when": "After 2 months",
+    "price": 2128,
+    "property_type": "House",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size": 4000,
+    "amenities": ["Balcony", "Air Conditioning", "Laundry Facilities"],
+    "contact": {
+      "name": "Ilsa Grindley",
+      "phone": "502-606-4555",
+      "email": "igrindley1b@pinterest.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2121832/pexels-photo-2121832.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Alabama",
+    "country": "United States",
+    "location": "843 Dahle Drive",
+    "property Name": "The Opulent Oasis",
+    "when": "After 2 months",
+    "price": 1897,
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size": 5000,
+    "amenities": ["Balcony", "Garden"],
+    "contact": {
+      "name": "Morten MacLeese",
+      "phone": "256-506-1572",
+      "email": "mmacleese1c@seesaa.net"
+    },
+    "imageURL": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Florida",
+    "country": "United States",
+    "location": "74 Stuart Way",
+    "property Name": "The Majestic Mile",
+    "when": "After 3 months",
+    "price": 1425,
+    "property_type": "Apartment",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "size": 3000,
+    "amenities": ["Fireplace", "Air Conditioning", "Balcony"],
+    "contact": {
+      "name": "Robin Lapides",
+      "phone": "786-312-1566",
+      "email": "rlapides1d@etsy.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/1115804/pexels-photo-1115804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Iowa",
+    "country": "United States",
+    "location": "2 Montana Alley",
+    "property Name": "The Elite Enclave",
+    "when": "After 3 months",
+    "price": 2006,
+    "property_type": "House",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size": 4000,
+    "amenities": ["Air Conditioning", "Garden"],
+    "contact": {
+      "name": "Adria Lloyd",
+      "phone": "515-840-8192",
+      "email": "alloyd1e@marketwatch.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/347141/pexels-photo-347141.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Connecticut",
+    "country": "United States",
+    "location": "48490 Homewood Hill",
+    "property Name": "The Summit Sanctuary",
+    "when": "Immediate",
+    "price": 1188,
+    "property_type": "Villa",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "size": 3000,
+    "amenities": ["Backyard", "Garage"],
+    "contact": {
+      "name": "Glennie Riddiough",
+      "phone": "860-601-5618",
+      "email": "griddiough1f@nationalgeographic.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2119714/pexels-photo-2119714.jpeg"
+  },
+  {
+    "state": "District of Columbia",
+    "country": "United States",
+    "location": "247 Sycamore Hill",
+    "property Name": "The Regal Residency",
+    "when": "Immediate",
+    "price": 1755,
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size": 1800,
+    "amenities": ["Fireplace", "Garage", "Air Conditioning"],
+    "contact": {
+      "name": "Raoul Donnelly",
+      "phone": "202-178-9236",
+      "email": "rdonnelly1g@freewebs.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/209296/pexels-photo-209296.jpeg"
+  },
+  {
+    "state": "Connecticut",
+    "country": "United States",
+    "location": "3 Eggendart Park",
+    "property Name": "The Platinum Penthouse",
+    "when": "Next month",
+    "price": 1617,
+    "property_type": "House",
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "size": 4000,
+    "amenities": ["Balcony", "Swimming Pool", "Fireplace"],
+    "contact": {
+      "name": "Gipsy Greenset",
+      "phone": "203-131-9188",
+      "email": "ggreenset1h@tuttocitta.it"
+    },
+    "imageURL": "https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Kansas",
+    "country": "United States",
+    "location": "68 Scott Center",
+    "property Name": "The Golden Gatehouse",
+    "when": "Immediate",
+    "price": 1787,
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "size": 1800,
+    "amenities": ["Fireplace", "Backyard"],
+    "contact": {
+      "name": "Constancia Elland",
+      "phone": "785-259-4119",
+      "email": "celland1i@posterous.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/542403/pexels-photo-542403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Illinois",
+    "country": "United States",
+    "location": "32 Transport Avenue",
+    "property Name": "The Signature Suite",
+    "when": "Next month",
+    "price": 1403,
+    "property_type": "House",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "size": 3500,
+    "amenities": ["Air Conditioning", "Fireplace", "Backyard"],
+    "contact": {
+      "name": "Evvie Lancetter",
+      "phone": "312-798-1006",
+      "email": "elancetter1j@netscape.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2816323/pexels-photo-2816323.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Indiana",
+    "country": "United States",
+    "location": "5941 Mallard Point",
+    "property Name": "The Prestige Palace",
+    "when": "Next month",
+    "price": 1628,
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size": 3500,
+    "amenities": ["Garage", "Fireplace", "Laundry Facilities"],
+    "contact": {
+      "name": "Adina Quigley",
+      "phone": "317-696-8117",
+      "email": "aquigley1k@51.la"
+    },
+    "imageURL": "https://images.pexels.com/photos/3221215/pexels-photo-3221215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "New York",
+    "country": "United States",
+    "location": "99 Kipling Pass",
+    "property Name": "The Velvet Vista",
+    "when": "Immediate",
+    "price": 1404,
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size": 1400,
+    "amenities": ["Fireplace", "Swimming Pool"],
+    "contact": {
+      "name": "Hughie Rosenfeld",
+      "phone": "718-606-9511",
+      "email": "hrosenfeld1l@yahoo.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/814830/pexels-photo-814830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "District of Columbia",
+    "country": "United States",
+    "location": "174 Hoepker Road",
+    "property Name": "The Iris Indigo",
+    "when": "After 2 months",
+    "price": 1621,
+    "property_type": "House",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "size": 5000,
+    "amenities": ["Fireplace", "Balcony", "Backyard"],
+    "contact": {
+      "name": "Natalina Mutch",
+      "phone": "202-317-4080",
+      "email": "nmutch1m@liveinternet.ru"
+    },
+    "imageURL": "https://images.pexels.com/photos/2886284/pexels-photo-2886284.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "New York",
+    "country": "United States",
+    "location": "2897 Dottie Way",
+    "property Name": "The Whispering Willows",
+    "when": "Immediate",
+    "price": 1373,
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "size": 2500,
+    "amenities": ["Swimming Pool"],
+    "contact": {
+      "name": "Umeko Stegell",
+      "phone": "516-578-0310",
+      "email": "ustegell1n@scientificamerican.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2121832/pexels-photo-2121832.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "California",
+    "country": "United States",
+    "location": "80424 Del Mar Circle",
+    "property Name": "The Luminescent Lagoon",
+    "when": "Immediate",
+    "price": 1935,
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "size": 2500,
+    "amenities": ["Backyard", "Garden"],
+    "contact": {
+      "name": "Julietta Tale",
+      "phone": "408-137-5734",
+      "email": "jtale1o@nbcnews.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Kentucky",
+    "country": "United States",
+    "location": "3776 Sauthoff Junction",
+    "property Name": "The Celestial Citadel",
+    "when": "Immediate",
+    "price": 1650,
+    "property_type": "House",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "size": 1400,
+    "amenities": ["Air Conditioning", "Backyard", "Balcony"],
+    "contact": {
+      "name": "Sharia Gainseford",
+      "phone": "606-746-2553",
+      "email": "sgainseford1p@com.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/1115804/pexels-photo-1115804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Washington",
+    "country": "United States",
+    "location": "934 Judy Place",
+    "property Name": "The Enchanted Evergreen",
+    "when": "After 3 months",
+    "price": 2193,
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size": 2500,
+    "amenities": ["Laundry Facilities", "Garden", "Swimming Pool"],
+    "contact": {
+      "name": "Titos Broose",
+      "phone": "509-706-5273",
+      "email": "tbroose1q@sogou.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/347141/pexels-photo-347141.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Arizona",
+    "country": "United States",
+    "location": "5330 Springview Crossing",
+    "property Name": "The Golden Grotto",
+    "when": "After 3 months",
+    "price": 1685,
+    "property_type": "House",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size": 2500,
+    "amenities": ["Garden"],
+    "contact": {
+      "name": "Artie Vogeler",
+      "phone": "602-386-6408",
+      "email": "avogeler1r@mozilla.org"
+    },
+    "imageURL": "https://images.pexels.com/photos/2119714/pexels-photo-2119714.jpeg"
+  },
+  {
+    "state": "Ohio",
+    "country": "United States",
+    "location": "023 Hooker Junction",
+    "property Name": "The Amethyst Arbour",
+    "when": "Immediate",
+    "price": 1845,
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size": 1800,
+    "amenities": ["Garden"],
+    "contact": {
+      "name": "Hubey Whittick",
+      "phone": "937-770-6593",
+      "email": "hwhittick1s@yelp.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/209296/pexels-photo-209296.jpeg"
+  },
+  {
+    "state": "New Jersey",
+    "country": "United States",
+    "location": "0846 5th Court",
+    "property Name": "The Silken Symphony",
+    "when": "Next month",
+    "price": 1009,
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "size": 3500,
+    "amenities": ["Backyard", "Garden"],
+    "contact": {
+      "name": "Patrice MacFarlan",
+      "phone": "908-563-2536",
+      "email": "pmacfarlan1t@instagram.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Idaho",
+    "country": "United States",
+    "location": "97 Luster Alley",
+    "property Name": "The Radiant Retreat",
+    "when": "Next month",
+    "price": 1592,
+    "property_type": "Villa",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size": 1800,
+    "amenities": ["Air Conditioning", "Balcony", "Fireplace"],
+    "contact": {
+      "name": "Mireille Pettinger",
+      "phone": "208-348-9962",
+      "email": "mpettinger1u@va.gov"
+    },
+    "imageURL": "https://images.pexels.com/photos/542403/pexels-photo-542403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Wisconsin",
+    "country": "United States",
+    "location": "341 Kim Way",
+    "property Name": "The Opulent Oasis",
+    "when": "After 3 months",
+    "price": 2063,
+    "property_type": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "size": 1800,
+    "amenities": ["Garden", "Balcony", "Air Conditioning"],
+    "contact": {
+      "name": "Kean Learmount",
+      "phone": "414-503-1315",
+      "email": "klearmount1v@noaa.gov"
+    },
+    "imageURL": "https://images.pexels.com/photos/2816323/pexels-photo-2816323.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Florida",
+    "country": "United States",
+    "location": "21 Anderson Terrace",
+    "property Name": "The Majestic Mile",
+    "when": "After 3 months",
+    "price": 966,
+    "property_type": "House",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "size": 1400,
+    "amenities": ["Fireplace"],
+    "contact": {
+      "name": "Morrie Cattanach",
+      "phone": "813-916-6240",
+      "email": "mcattanach1w@bloglines.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/3221215/pexels-photo-3221215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "North Carolina",
+    "country": "United States",
+    "location": "04150 Hudson Alley",
+    "property Name": "The Elite Enclave",
+    "when": "After 2 months",
+    "price": 2110,
+    "property_type": "Apartment",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "size": 2500,
+    "amenities": ["Backyard"],
+    "contact": {
+      "name": "Debera Baxstare",
+      "phone": "704-848-7468",
+      "email": "dbaxstare1x@edublogs.org"
+    },
+    "imageURL": "https://images.pexels.com/photos/814830/pexels-photo-814830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "District of Columbia",
+    "country": "United States",
+    "location": "482 2nd Junction",
+    "property Name": "The Summit Sanctuary",
+    "when": "Immediate",
+    "price": 1792,
+    "property_type": "Villa",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size": 1800,
+    "amenities": ["Garage"],
+    "contact": {
+      "name": "Theressa Viner",
+      "phone": "202-387-6406",
+      "email": "tviner1y@prnewswire.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2886284/pexels-photo-2886284.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "California",
+    "country": "United States",
+    "location": "22278 Main Crossing",
+    "property Name": "The Regal Residency",
+    "when": "After 2 months",
+    "price": 1228,
+    "property_type": "Villa",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "size": 3000,
+    "amenities": ["Air Conditioning", "Laundry Facilities", "Garden"],
+    "contact": {
+      "name": "Carlie Kench",
+      "phone": "510-214-4772",
+      "email": "ckench1z@nifty.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2121832/pexels-photo-2121832.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Ohio",
+    "country": "United States",
+    "location": "205 Crescent Oaks Pass",
+    "property Name": "The Platinum Penthouse",
+    "when": "After 3 months",
+    "price": 2013,
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "size": 3000,
+    "amenities": ["Fireplace"],
+    "contact": {
+      "name": "Kordula Covely",
+      "phone": "419-737-8468",
+      "email": "kcovely20@cargocollective.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Florida",
+    "country": "United States",
+    "location": "5884 Browning Alley",
+    "property Name": "The Golden Gatehouse",
+    "when": "After 3 months",
+    "price": 2033,
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "size": 1400,
+    "amenities": ["Air Conditioning", "Fireplace"],
+    "contact": {
+      "name": "Evyn Pinson",
+      "phone": "904-918-4190",
+      "email": "epinson21@mac.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/1115804/pexels-photo-1115804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Ohio",
+    "country": "United States",
+    "location": "2492 Pierstorff Road",
+    "property Name": "The Signature Suite",
+    "when": "Immediate",
+    "price": 2064,
+    "property_type": "House",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "size": 4000,
+    "amenities": ["Air Conditioning", "Laundry Facilities", "Garage"],
+    "contact": {
+      "name": "Richardo Durdy",
+      "phone": "419-867-7697",
+      "email": "rdurdy22@plala.or.jp"
+    },
+    "imageURL": "https://images.pexels.com/photos/347141/pexels-photo-347141.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Kentucky",
+    "country": "United States",
+    "location": "59472 Lillian Road",
+    "property Name": "The Prestige Palace",
+    "when": "Immediate",
+    "price": 1509,
+    "property_type": "House",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size": 5000,
+    "amenities": ["Garage"],
+    "contact": {
+      "name": "Cirilo Bowshire",
+      "phone": "502-838-7223",
+      "email": "cbowshire23@google.ca"
+    },
+    "imageURL": "https://images.pexels.com/photos/2119714/pexels-photo-2119714.jpeg"
+  },
+  {
+    "state": "Florida",
+    "country": "United States",
+    "location": "343 Comanche Junction",
+    "property Name": "The Velvet Vista",
+    "when": "After 2 months",
+    "price": 1897,
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size": 3500,
+    "amenities": ["Laundry Facilities", "Garage"],
+    "contact": {
+      "name": "Wilbur Titley",
+      "phone": "850-964-6374",
+      "email": "wtitley24@rediff.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/209296/pexels-photo-209296.jpeg"
+  },
+  {
+    "state": "Missouri",
+    "country": "United States",
+    "location": "3 Lillian Court",
+    "property Name": "The Iris Indigo",
+    "when": "After 3 months",
+    "price": 1891,
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "size": 3500,
+    "amenities": ["Garden", "Fireplace"],
+    "contact": {
+      "name": "Cello O'Leahy",
+      "phone": "314-826-6970",
+      "email": "coleahy25@tamu.edu"
+    },
+    "imageURL": "https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Florida",
+    "country": "United States",
+    "location": "26390 Maywood Way",
+    "property Name": "The Whispering Willows",
+    "when": "After 2 months",
+    "price": 1206,
+    "property_type": "House",
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "size": 2500,
+    "amenities": ["Fireplace", "Garden"],
+    "contact": {
+      "name": "Gerardo Humpherston",
+      "phone": "305-203-7537",
+      "email": "ghumpherston26@arizona.edu"
+    },
+    "imageURL": "https://images.pexels.com/photos/542403/pexels-photo-542403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Florida",
+    "country": "United States",
+    "location": "0327 Vidon Circle",
+    "property Name": "The Luminescent Lagoon",
+    "when": "Immediate",
+    "price": 2176,
+    "property_type": "House",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size": 1800,
+    "amenities": ["Laundry Facilities", "Air Conditioning", "Swimming Pool"],
+    "contact": {
+      "name": "Sunny Truckell",
+      "phone": "941-957-9407",
+      "email": "struckell27@networksolutions.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2816323/pexels-photo-2816323.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Texas",
+    "country": "United States",
+    "location": "34 Butterfield Park",
+    "property Name": "The Celestial Citadel",
+    "when": "Immediate",
+    "price": 1788,
+    "property_type": "House",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "size": 4000,
+    "amenities": ["Garden", "Air Conditioning", "Swimming Pool"],
+    "contact": {
+      "name": "Jerad Edards",
+      "phone": "409-815-4507",
+      "email": "jedards28@yellowpages.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/3221215/pexels-photo-3221215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Utah",
+    "country": "United States",
+    "location": "18 Gale Point",
+    "property Name": "The Enchanted Evergreen",
+    "when": "Next month",
+    "price": 1211,
+    "property_type": "House",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "size": 5000,
+    "amenities": ["Fireplace", "Backyard"],
+    "contact": {
+      "name": "Waylen Newhouse",
+      "phone": "801-415-3827",
+      "email": "wnewhouse29@prnewswire.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/814830/pexels-photo-814830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Indiana",
+    "country": "United States",
+    "location": "068 Comanche Pass",
+    "property Name": "The Golden Grotto",
+    "when": "After 3 months",
+    "price": 983,
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size": 3500,
+    "amenities": ["Air Conditioning"],
+    "contact": {
+      "name": "Duffie Extall",
+      "phone": "765-695-4598",
+      "email": "dextall2a@vimeo.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2886284/pexels-photo-2886284.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Kentucky",
+    "country": "United States",
+    "location": "51517 Commercial Junction",
+    "property Name": "The Amethyst Arbour",
+    "when": "After 3 months",
+    "price": 1565,
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size": 4000,
+    "amenities": ["Swimming Pool", "Garden", "Garage"],
+    "contact": {
+      "name": "Bambi Mangam",
+      "phone": "502-201-1452",
+      "email": "bmangam2b@cargocollective.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2121832/pexels-photo-2121832.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "California",
+    "country": "United States",
+    "location": "247 Texas Center",
+    "property Name": "The Silken Symphony",
+    "when": "Immediate",
+    "price": 905,
+    "property_type": "Villa",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size": 5000,
+    "amenities": ["Fireplace"],
+    "contact": {
+      "name": "Lance Mound",
+      "phone": "661-200-3339",
+      "email": "lmound2c@constantcontact.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "District of Columbia",
+    "country": "United States",
+    "location": "9696 Mccormick Alley",
+    "property Name": "The Radiant Retreat",
+    "when": "After 2 months",
+    "price": 2006,
+    "property_type": "Villa",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size": 1400,
+    "amenities": ["Garden", "Laundry Facilities"],
+    "contact": {
+      "name": "Carroll Peers",
+      "phone": "202-694-0245",
+      "email": "cpeers2d@aboutads.info"
+    },
+    "imageURL": "https://images.pexels.com/photos/1115804/pexels-photo-1115804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Georgia",
+    "country": "United States",
+    "location": "49 Spenser Drive",
+    "property Name": "The Opulent Oasis",
+    "when": "After 2 months",
+    "price": 1648,
+    "property_type": "Villa",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "size": 5000,
+    "amenities": ["Laundry Facilities"],
+    "contact": {
+      "name": "Keven Prudham",
+      "phone": "478-216-6344",
+      "email": "kprudham2e@vk.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/347141/pexels-photo-347141.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Colorado",
+    "country": "United States",
+    "location": "069 Meadow Vale Hill",
+    "property Name": "The Majestic Mile",
+    "when": "Immediate",
+    "price": 1274,
+    "property_type": "House",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size": 5000,
+    "amenities": ["Fireplace"],
+    "contact": {
+      "name": "Dwayne Laurenty",
+      "phone": "303-803-6732",
+      "email": "dlaurenty2f@cbsnews.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2119714/pexels-photo-2119714.jpeg"
+  },
+  {
+    "state": "Texas",
+    "country": "United States",
+    "location": "6679 Cascade Drive",
+    "property Name": "The Elite Enclave",
+    "when": "After 3 months",
+    "price": 2183,
+    "property_type": "House",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size": 5000,
+    "amenities": ["Swimming Pool", "Garage"],
+    "contact": {
+      "name": "Herbert Towle",
+      "phone": "713-857-4299",
+      "email": "htowle2g@wiley.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/209296/pexels-photo-209296.jpeg"
+  },
+  {
+    "state": "Illinois",
+    "country": "United States",
+    "location": "449 Macpherson Plaza",
+    "property Name": "The Summit Sanctuary",
+    "when": "Immediate",
+    "price": 1698,
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "size": 5000,
+    "amenities": ["Fireplace", "Swimming Pool", "Laundry Facilities"],
+    "contact": {
+      "name": "Ashby Roskrug",
+      "phone": "217-284-7250",
+      "email": "aroskrug2h@cocolog-nifty.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Florida",
+    "country": "United States",
+    "location": "8 Debs Drive",
+    "property Name": "The Regal Residency",
+    "when": "Next month",
+    "price": 2153,
+    "property_type": "Villa",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size": 4000,
+    "amenities": ["Balcony"],
+    "contact": {
+      "name": "Geoffry Giral",
+      "phone": "941-165-0463",
+      "email": "ggiral2i@ft.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/542403/pexels-photo-542403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Missouri",
+    "country": "United States",
+    "location": "35580 Montana Plaza",
+    "property Name": "The Platinum Penthouse",
+    "when": "After 2 months",
+    "price": 1973,
+    "property_type": "Villa",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "size": 3500,
+    "amenities": ["Swimming Pool", "Fireplace"],
+    "contact": {
+      "name": "Lee McDonough",
+      "phone": "314-311-0303",
+      "email": "lmcdonough2j@cyberchimps.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2816323/pexels-photo-2816323.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "North Carolina",
+    "country": "United States",
+    "location": "9868 Ohio Pass",
+    "property Name": "The Golden Gatehouse",
+    "when": "After 3 months",
+    "price": 1820,
+    "property_type": "Villa",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "size": 3000,
+    "amenities": ["Laundry Facilities", "Garage"],
+    "contact": {
+      "name": "Cami Petschelt",
+      "phone": "704-540-0833",
+      "email": "cpetschelt2k@discuz.net"
+    },
+    "imageURL": "https://images.pexels.com/photos/3221215/pexels-photo-3221215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Tennessee",
+    "country": "United States",
+    "location": "018 Mosinee Point",
+    "property Name": "The Signature Suite",
+    "when": "After 2 months",
+    "price": 1030,
+    "property_type": "House",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "size": 5000,
+    "amenities": ["Swimming Pool", "Laundry Facilities", "Balcony"],
+    "contact": {
+      "name": "Lauretta Stych",
+      "phone": "901-471-2681",
+      "email": "lstych2l@vimeo.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/814830/pexels-photo-814830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Nebraska",
+    "country": "United States",
+    "location": "9 Steensland Junction",
+    "property Name": "The Prestige Palace",
+    "when": "After 2 months",
+    "price": 1426,
+    "property_type": "Apartment",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "size": 3500,
+    "amenities": ["Garden", "Swimming Pool"],
+    "contact": {
+      "name": "Carleton Tolossi",
+      "phone": "402-260-3437",
+      "email": "ctolossi2m@gmpg.org"
+    },
+    "imageURL": "https://images.pexels.com/photos/2886284/pexels-photo-2886284.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Florida",
+    "country": "United States",
+    "location": "70 Scoville Pass",
+    "property Name": "The Velvet Vista",
+    "when": "Next month",
+    "price": 1285,
+    "property_type": "House",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size": 1800,
+    "amenities": ["Garage"],
+    "contact": {
+      "name": "Letty Arons",
+      "phone": "239-609-7274",
+      "email": "larons2n@so-net.ne.jp"
+    },
+    "imageURL": "https://images.pexels.com/photos/2121832/pexels-photo-2121832.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Pennsylvania",
+    "country": "United States",
+    "location": "58 Kim Point",
+    "property Name": "The Iris Indigo",
+    "when": "Immediate",
+    "price": 1115,
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "size": 1800,
+    "amenities": ["Garden"],
+    "contact": {
+      "name": "Phyllida Demanche",
+      "phone": "215-330-2108",
+      "email": "pdemanche2o@nhs.uk"
+    },
+    "imageURL": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Colorado",
+    "country": "United States",
+    "location": "78 West Place",
+    "property Name": "The Whispering Willows",
+    "when": "Next month",
+    "price": 1165,
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "size": 1800,
+    "amenities": ["Garden"],
+    "contact": {
+      "name": "Perceval Oller",
+      "phone": "303-597-4226",
+      "email": "poller2p@admin.ch"
+    },
+    "imageURL": "https://images.pexels.com/photos/1115804/pexels-photo-1115804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Alabama",
+    "country": "United States",
+    "location": "1037 Summerview Hill",
+    "property Name": "The Luminescent Lagoon",
+    "when": "Next month",
+    "price": 1760,
+    "property_type": "House",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "size": 4000,
+    "amenities": ["Laundry Facilities", "Fireplace", "Air Conditioning"],
+    "contact": {
+      "name": "Cornie Everil",
+      "phone": "334-356-0037",
+      "email": "ceveril2q@tmall.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/347141/pexels-photo-347141.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Massachusetts",
+    "country": "United States",
+    "location": "878 Chinook Avenue",
+    "property Name": "The Celestial Citadel",
+    "when": "After 2 months",
+    "price": 1410,
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size": 1400,
+    "amenities": ["Fireplace"],
+    "contact": {
+      "name": "Collette Golling",
+      "phone": "318-945-1892",
+      "email": "cgolling2r@usatoday.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2119714/pexels-photo-2119714.jpeg"
+  },
+  {
+    "state": "Alabama",
+    "country": "United States",
+    "location": "8348 Kensington Drive",
+    "property Name": "The Enchanted Evergreen",
+    "when": "Next month",
+    "price": 1792,
+    "property_type": "House",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "size": 3500,
+    "amenities": ["Garage", "Garden"],
+    "contact": {
+      "name": "Corey Gainsbury",
+      "phone": "251-394-8154",
+      "email": "cgainsbury2s@wikipedia.org"
+    },
+    "imageURL": "https://images.pexels.com/photos/209296/pexels-photo-209296.jpeg"
+  },
+  {
+    "state": "Ohio",
+    "country": "United States",
+    "location": "92859 Hooker Circle",
+    "property Name": "The Golden Grotto",
+    "when": "After 3 months",
+    "price": 1546,
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "size": 5000,
+    "amenities": ["Fireplace", "Laundry Facilities", "Swimming Pool"],
+    "contact": {
+      "name": "Daffi Boulds",
+      "phone": "419-140-5475",
+      "email": "dboulds2t@spiegel.de"
+    },
+    "imageURL": "https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Tennessee",
+    "country": "United States",
+    "location": "43 Ronald Regan Alley",
+    "property Name": "The Amethyst Arbour",
+    "when": "After 3 months",
+    "price": 1965,
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "size": 5000,
+    "amenities": ["Backyard", "Air Conditioning", "Garage"],
+    "contact": {
+      "name": "Toiboid Gravey",
+      "phone": "901-910-4765",
+      "email": "tgravey2u@ucoz.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/542403/pexels-photo-542403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "New York",
+    "country": "United States",
+    "location": "92 Kim Pass",
+    "property Name": "The Silken Symphony",
+    "when": "Next month",
+    "price": 1405,
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "size": 5000,
+    "amenities": ["Swimming Pool", "Backyard", "Garden"],
+    "contact": {
+      "name": "Yvon Hudd",
+      "phone": "917-194-7363",
+      "email": "yhudd2v@privacy.gov.au"
+    },
+    "imageURL": "https://images.pexels.com/photos/2816323/pexels-photo-2816323.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "South Carolina",
+    "country": "United States",
+    "location": "0 Luster Pass",
+    "property Name": "The Radiant Retreat",
+    "when": "Immediate",
+    "price": 1900,
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size": 1800,
+    "amenities": ["Garden"],
+    "contact": {
+      "name": "Lesley Pummery",
+      "phone": "843-478-5356",
+      "email": "lpummery2w@wikia.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/3221215/pexels-photo-3221215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Texas",
+    "country": "United States",
+    "location": "1 Straubel Place",
+    "property Name": "The Opulent Oasis",
+    "when": "Immediate",
+    "price": 1693,
+    "property_type": "Villa",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "size": 5000,
+    "amenities": ["Balcony"],
+    "contact": {
+      "name": "Suzy Markwick",
+      "phone": "830-154-3342",
+      "email": "smarkwick2x@adobe.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/814830/pexels-photo-814830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Louisiana",
+    "country": "United States",
+    "location": "979 Myrtle Hill",
+    "property Name": "The Majestic Mile",
+    "when": "Next month",
+    "price": 2125,
+    "property_type": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size": 2500,
+    "amenities": ["Garden", "Balcony"],
+    "contact": {
+      "name": "Lynnell Rock",
+      "phone": "504-954-1563",
+      "email": "lrock2y@youtu.be"
+    },
+    "imageURL": "https://images.pexels.com/photos/2886284/pexels-photo-2886284.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Connecticut",
+    "country": "United States",
+    "location": "9894 Artisan Lane",
+    "property Name": "The Elite Enclave",
+    "when": "After 2 months",
+    "price": 1591,
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size": 4000,
+    "amenities": ["Swimming Pool", "Laundry Facilities", "Garden"],
+    "contact": {
+      "name": "Gertrud Neville",
+      "phone": "860-458-3042",
+      "email": "gneville2z@cornell.edu"
+    },
+    "imageURL": "https://images.pexels.com/photos/2121832/pexels-photo-2121832.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Florida",
+    "country": "United States",
+    "location": "79 Briar Crest Place",
+    "property Name": "The Summit Sanctuary",
+    "when": "After 2 months",
+    "price": 1558,
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size": 4000,
+    "amenities": ["Fireplace"],
+    "contact": {
+      "name": "Marci Negro",
+      "phone": "727-850-6756",
+      "email": "mnegro30@economist.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Texas",
+    "country": "United States",
+    "location": "5973 Ilene Trail",
+    "property Name": "The Regal Residency",
+    "when": "Immediate",
+    "price": 1325,
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "size": 1800,
+    "amenities": ["Air Conditioning", "Garden"],
+    "contact": {
+      "name": "Amanda Hurdman",
+      "phone": "214-511-3125",
+      "email": "ahurdman31@goo.ne.jp"
+    },
+    "imageURL": "https://images.pexels.com/photos/1115804/pexels-photo-1115804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Pennsylvania",
+    "country": "United States",
+    "location": "108 Grover Trail",
+    "property Name": "The Platinum Penthouse",
+    "when": "After 3 months",
+    "price": 1527,
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "size": 3500,
+    "amenities": ["Garage", "Balcony"],
+    "contact": {
+      "name": "Estevan Bagshawe",
+      "phone": "570-303-7920",
+      "email": "ebagshawe32@t.co"
+    },
+    "imageURL": "https://images.pexels.com/photos/347141/pexels-photo-347141.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "District of Columbia",
+    "country": "United States",
+    "location": "5 Golf View Center",
+    "property Name": "The Golden Gatehouse",
+    "when": "Immediate",
+    "price": 2019,
+    "property_type": "House",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size": 3000,
+    "amenities": ["Fireplace"],
+    "contact": {
+      "name": "Garreth Twigger",
+      "phone": "202-740-1714",
+      "email": "gtwigger33@hubpages.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2119714/pexels-photo-2119714.jpeg"
+  },
+  {
+    "state": "Texas",
+    "country": "United States",
+    "location": "96 Sage Road",
+    "property Name": "The Signature Suite",
+    "when": "After 3 months",
+    "price": 1837,
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "size": 4000,
+    "amenities": ["Garden", "Air Conditioning", "Balcony"],
+    "contact": {
+      "name": "Thadeus Gameson",
+      "phone": "469-615-8323",
+      "email": "tgameson34@mozilla.org"
+    },
+    "imageURL": "https://images.pexels.com/photos/209296/pexels-photo-209296.jpeg"
+  },
+  {
+    "state": "District of Columbia",
+    "country": "United States",
+    "location": "85247 Autumn Leaf Way",
+    "property Name": "The Prestige Palace",
+    "when": "Immediate",
+    "price": 1131,
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "size": 5000,
+    "amenities": ["Air Conditioning", "Laundry Facilities", "Fireplace"],
+    "contact": {
+      "name": "Jessey Lapish",
+      "phone": "202-330-9626",
+      "email": "jlapish35@independent.co.uk"
+    },
+    "imageURL": "https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Nevada",
+    "country": "United States",
+    "location": "0 Jackson Road",
+    "property Name": "The Velvet Vista",
+    "when": "Immediate",
+    "price": 1557,
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "size": 1400,
+    "amenities": ["Backyard", "Garage"],
+    "contact": {
+      "name": "Chelsea Tuttiett",
+      "phone": "775-645-7607",
+      "email": "ctuttiett36@purevolume.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/542403/pexels-photo-542403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Florida",
+    "country": "United States",
+    "location": "961 Almo Parkway",
+    "property Name": "The Iris Indigo",
+    "when": "After 2 months",
+    "price": 1327,
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "size": 3500,
+    "amenities": ["Garden", "Fireplace"],
+    "contact": {
+      "name": "Hayyim Broscombe",
+      "phone": "813-403-2728",
+      "email": "hbroscombe37@redcross.org"
+    },
+    "imageURL": "https://images.pexels.com/photos/2816323/pexels-photo-2816323.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Kentucky",
+    "country": "United States",
+    "location": "53889 Di Loreto Plaza",
+    "property Name": "The Whispering Willows",
+    "when": "After 3 months",
+    "price": 1947,
+    "property_type": "House",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "size": 5000,
+    "amenities": ["Backyard", "Air Conditioning"],
+    "contact": {
+      "name": "Maure Pering",
+      "phone": "502-525-1984",
+      "email": "mpering38@geocities.jp"
+    },
+    "imageURL": "https://images.pexels.com/photos/3221215/pexels-photo-3221215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Illinois",
+    "country": "United States",
+    "location": "13 Farmco Avenue",
+    "property Name": "The Luminescent Lagoon",
+    "when": "Immediate",
+    "price": 1112,
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "size": 2500,
+    "amenities": ["Garden", "Air Conditioning", "Backyard"],
+    "contact": {
+      "name": "Kore Plowes",
+      "phone": "773-477-9127",
+      "email": "kplowes39@cnet.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/814830/pexels-photo-814830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Illinois",
+    "country": "United States",
+    "location": "8684 Saint Paul Street",
+    "property Name": "The Celestial Citadel",
+    "when": "After 2 months",
+    "price": 2063,
+    "property_type": "Villa",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size": 1800,
+    "amenities": ["Laundry Facilities", "Garage"],
+    "contact": {
+      "name": "Bay Innott",
+      "phone": "309-951-9350",
+      "email": "binnott3a@huffingtonpost.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2886284/pexels-photo-2886284.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Ohio",
+    "country": "United States",
+    "location": "1 Banding Point",
+    "property Name": "The Enchanted Evergreen",
+    "when": "After 2 months",
+    "price": 1775,
+    "property_type": "House",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "size": 1400,
+    "amenities": ["Fireplace", "Garage", "Backyard"],
+    "contact": {
+      "name": "Mathilda Cropton",
+      "phone": "234-415-6848",
+      "email": "mcropton3b@imgur.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2121832/pexels-photo-2121832.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Texas",
+    "country": "United States",
+    "location": "5 Merrick Court",
+    "property Name": "The Golden Grotto",
+    "when": "Immediate",
+    "price": 2057,
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size": 3500,
+    "amenities": ["Air Conditioning", "Backyard", "Swimming Pool"],
+    "contact": {
+      "name": "Shalna O'Heffernan",
+      "phone": "806-588-6811",
+      "email": "soheffernan3c@samsung.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Louisiana",
+    "country": "United States",
+    "location": "90 Ronald Regan Alley",
+    "property Name": "The Amethyst Arbour",
+    "when": "Next month",
+    "price": 1391,
+    "property_type": "Apartment",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "size": 3000,
+    "amenities": ["Garage"],
+    "contact": {
+      "name": "Celene Boissieux",
+      "phone": "504-670-6198",
+      "email": "cboissieux3d@google.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/1115804/pexels-photo-1115804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Florida",
+    "country": "United States",
+    "location": "7695 Thierer Center",
+    "property Name": "The Silken Symphony",
+    "when": "After 3 months",
+    "price": 1821,
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size": 5000,
+    "amenities": ["Laundry Facilities", "Fireplace"],
+    "contact": {
+      "name": "Billi Ferfulle",
+      "phone": "813-149-0183",
+      "email": "bferfulle3e@google.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/347141/pexels-photo-347141.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Massachusetts",
+    "country": "United States",
+    "location": "79039 Fieldstone Pass",
+    "property Name": "The Radiant Retreat",
+    "when": "Next month",
+    "price": 2101,
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size": 1800,
+    "amenities": ["Air Conditioning"],
+    "contact": {
+      "name": "Kerr Shelford",
+      "phone": "339-993-9220",
+      "email": "kshelford3f@ucoz.ru"
+    },
+    "imageURL": "https://images.pexels.com/photos/2119714/pexels-photo-2119714.jpeg"
+  },
+  {
+    "state": "North Dakota",
+    "country": "United States",
+    "location": "45 Iowa Trail",
+    "property Name": "The Opulent Oasis",
+    "when": "Next month",
+    "price": 1059,
+    "property_type": "House",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size": 5000,
+    "amenities": ["Balcony"],
+    "contact": {
+      "name": "Anabal Kiossel",
+      "phone": "701-381-1457",
+      "email": "akiossel3g@xinhuanet.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/209296/pexels-photo-209296.jpeg"
+  },
+  {
+    "state": "Pennsylvania",
+    "country": "United States",
+    "location": "9 Grasskamp Plaza",
+    "property Name": "The Majestic Mile",
+    "when": "Next month",
+    "price": 2085,
+    "property_type": "House",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "size": 2500,
+    "amenities": ["Garden"],
+    "contact": {
+      "name": "Willi Glamart",
+      "phone": "412-983-5274",
+      "email": "wglamart3h@behance.net"
+    },
+    "imageURL": "https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "West Virginia",
+    "country": "United States",
+    "location": "73 Dawn Circle",
+    "property Name": "The Elite Enclave",
+    "when": "Immediate",
+    "price": 1723,
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "size": 1400,
+    "amenities": ["Laundry Facilities"],
+    "contact": {
+      "name": "Benny Skelton",
+      "phone": "304-597-2266",
+      "email": "bskelton3i@youku.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/542403/pexels-photo-542403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Texas",
+    "country": "United States",
+    "location": "7 Riverside Point",
+    "property Name": "The Summit Sanctuary",
+    "when": "Next month",
+    "price": 1553,
+    "property_type": "House",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "size": 1400,
+    "amenities": ["Laundry Facilities", "Swimming Pool", "Balcony"],
+    "contact": {
+      "name": "Ann Dunleavy",
+      "phone": "210-688-6338",
+      "email": "adunleavy3j@elpais.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2816323/pexels-photo-2816323.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Missouri",
+    "country": "United States",
+    "location": "6639 Schiller Street",
+    "property Name": "The Regal Residency",
+    "when": "Immediate",
+    "price": 1708,
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "size": 1400,
+    "amenities": ["Balcony", "Swimming Pool", "Fireplace"],
+    "contact": {
+      "name": "Skyler Grumell",
+      "phone": "314-632-9354",
+      "email": "sgrumell3k@topsy.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/3221215/pexels-photo-3221215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Texas",
+    "country": "United States",
+    "location": "2 Sherman Place",
+    "property Name": "The Platinum Penthouse",
+    "when": "After 2 months",
+    "price": 1722,
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "size": 4000,
+    "amenities": ["Fireplace", "Garage", "Laundry Facilities"],
+    "contact": {
+      "name": "Itch Dix",
+      "phone": "512-359-1632",
+      "email": "idix3l@flavors.me"
+    },
+    "imageURL": "https://images.pexels.com/photos/814830/pexels-photo-814830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Virginia",
+    "country": "United States",
+    "location": "5 Old Gate Street",
+    "property Name": "The Golden Gatehouse",
+    "when": "Next month",
+    "price": 2158,
+    "property_type": "House",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size": 3500,
+    "amenities": ["Backyard", "Balcony", "Laundry Facilities"],
+    "contact": {
+      "name": "Marietta Iianon",
+      "phone": "540-700-7739",
+      "email": "miianon3m@unblog.fr"
+    },
+    "imageURL": "https://images.pexels.com/photos/2886284/pexels-photo-2886284.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Illinois",
+    "country": "United States",
+    "location": "3 Hanson Alley",
+    "property Name": "The Signature Suite",
+    "when": "After 3 months",
+    "price": 1317,
+    "property_type": "House",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "size": 3000,
+    "amenities": ["Balcony"],
+    "contact": {
+      "name": "Prinz Pedreschi",
+      "phone": "309-489-1002",
+      "email": "ppedreschi3n@hibu.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2121832/pexels-photo-2121832.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Florida",
+    "country": "United States",
+    "location": "4 Hayes Drive",
+    "property Name": "The Prestige Palace",
+    "when": "After 2 months",
+    "price": 2013,
+    "property_type": "House",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "size": 3500,
+    "amenities": ["Balcony", "Backyard", "Swimming Pool"],
+    "contact": {
+      "name": "Bathsheba Planks",
+      "phone": "954-123-0594",
+      "email": "bplanks3o@illinois.edu"
+    },
+    "imageURL": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "West Virginia",
+    "country": "United States",
+    "location": "0082 Mcbride Terrace",
+    "property Name": "The Velvet Vista",
+    "when": "After 3 months",
+    "price": 1137,
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "size": 3500,
+    "amenities": ["Garden", "Fireplace"],
+    "contact": {
+      "name": "Lanita Bullion",
+      "phone": "304-897-4651",
+      "email": "lbullion3p@360.cn"
+    },
+    "imageURL": "https://images.pexels.com/photos/1115804/pexels-photo-1115804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "California",
+    "country": "United States",
+    "location": "065 Reinke Court",
+    "property Name": "The Iris Indigo",
+    "when": "After 2 months",
+    "price": 1987,
+    "property_type": "House",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "size": 4000,
+    "amenities": ["Balcony"],
+    "contact": {
+      "name": "Ignacio Cockroft",
+      "phone": "714-647-3304",
+      "email": "icockroft3q@cargocollective.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/347141/pexels-photo-347141.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "New York",
+    "country": "United States",
+    "location": "7 Redwing Street",
+    "property Name": "The Whispering Willows",
+    "when": "Immediate",
+    "price": 975,
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size": 3500,
+    "amenities": ["Garage", "Air Conditioning", "Garden"],
+    "contact": {
+      "name": "Coleen Stefanovic",
+      "phone": "212-840-9200",
+      "email": "cstefanovic3r@oaic.gov.au"
+    },
+    "imageURL": "https://images.pexels.com/photos/2119714/pexels-photo-2119714.jpeg"
+  },
+  {
+    "state": "Texas",
+    "country": "United States",
+    "location": "479 Gale Plaza",
+    "property Name": "The Luminescent Lagoon",
+    "when": "After 3 months",
+    "price": 2166,
+    "property_type": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "size": 1400,
+    "amenities": ["Fireplace", "Balcony", "Swimming Pool"],
+    "contact": {
+      "name": "Jens Huitt",
+      "phone": "915-647-1308",
+      "email": "jhuitt3s@ft.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/209296/pexels-photo-209296.jpeg"
+  },
+  {
+    "state": "Texas",
+    "country": "United States",
+    "location": "07 Valley Edge Park",
+    "property Name": "The Celestial Citadel",
+    "when": "After 3 months",
+    "price": 1245,
+    "property_type": "Villa",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "size": 2500,
+    "amenities": ["Swimming Pool", "Air Conditioning"],
+    "contact": {
+      "name": "Dennet Chrstine",
+      "phone": "512-681-7631",
+      "email": "dchrstine3t@paypal.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Utah",
+    "country": "United States",
+    "location": "0 Dapin Way",
+    "property Name": "The Enchanted Evergreen",
+    "when": "Immediate",
+    "price": 1983,
+    "property_type": "House",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size": 1800,
+    "amenities": ["Garden"],
+    "contact": {
+      "name": "Urbanus Craydon",
+      "phone": "801-900-4950",
+      "email": "ucraydon3u@scribd.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/542403/pexels-photo-542403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Florida",
+    "country": "United States",
+    "location": "9419 Mayfield Place",
+    "property Name": "The Golden Grotto",
+    "when": "Next month",
+    "price": 1725,
+    "property_type": "House",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size": 5000,
+    "amenities": ["Balcony"],
+    "contact": {
+      "name": "Roxi Crockett",
+      "phone": "904-444-2538",
+      "email": "rcrockett3v@ameblo.jp"
+    },
+    "imageURL": "https://images.pexels.com/photos/2816323/pexels-photo-2816323.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Oklahoma",
+    "country": "United States",
+    "location": "964 Northwestern Crossing",
+    "property Name": "The Amethyst Arbour",
+    "when": "After 3 months",
+    "price": 2153,
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size": 1800,
+    "amenities": ["Garden", "Backyard", "Laundry Facilities"],
+    "contact": {
+      "name": "Amity Mearns",
+      "phone": "918-365-1993",
+      "email": "amearns3w@amazon.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/3221215/pexels-photo-3221215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Minnesota",
+    "country": "United States",
+    "location": "3184 Commercial Avenue",
+    "property Name": "The Silken Symphony",
+    "when": "After 2 months",
+    "price": 2065,
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "size": 3500,
+    "amenities": ["Backyard"],
+    "contact": {
+      "name": "Clint Forster",
+      "phone": "651-745-4772",
+      "email": "cforster3x@globo.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/814830/pexels-photo-814830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Indiana",
+    "country": "United States",
+    "location": "6525 Fallview Road",
+    "property Name": "The Radiant Retreat",
+    "when": "Immediate",
+    "price": 2103,
+    "property_type": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "size": 3500,
+    "amenities": ["Swimming Pool"],
+    "contact": {
+      "name": "Randa Tessier",
+      "phone": "317-430-2319",
+      "email": "rtessier3y@shinystat.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2886284/pexels-photo-2886284.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "New Jersey",
+    "country": "United States",
+    "location": "529 Elka Drive",
+    "property Name": "The Opulent Oasis",
+    "when": "Next month",
+    "price": 1408,
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size": 2500,
+    "amenities": ["Balcony", "Swimming Pool", "Laundry Facilities"],
+    "contact": {
+      "name": "Helena Clears",
+      "phone": "201-434-8525",
+      "email": "hclears3z@nih.gov"
+    },
+    "imageURL": "https://images.pexels.com/photos/2121832/pexels-photo-2121832.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Washington",
+    "country": "United States",
+    "location": "098 Alpine Circle",
+    "property Name": "The Majestic Mile",
+    "when": "After 3 months",
+    "price": 1666,
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "size": 1400,
+    "amenities": ["Fireplace", "Swimming Pool"],
+    "contact": {
+      "name": "Darline Dargavel",
+      "phone": "253-857-9048",
+      "email": "ddargavel40@marriott.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "New York",
+    "country": "United States",
+    "location": "47323 Pond Terrace",
+    "property Name": "The Elite Enclave",
+    "when": "After 3 months",
+    "price": 1494,
+    "property_type": "House",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size": 3500,
+    "amenities": ["Swimming Pool", "Garage", "Balcony"],
+    "contact": {
+      "name": "Donn Matyasik",
+      "phone": "646-579-9590",
+      "email": "dmatyasik41@hao123.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/1115804/pexels-photo-1115804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Massachusetts",
+    "country": "United States",
+    "location": "7 Del Sol Terrace",
+    "property Name": "The Summit Sanctuary",
+    "when": "After 3 months",
+    "price": 1568,
+    "property_type": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "size": 5000,
+    "amenities": ["Laundry Facilities", "Fireplace"],
+    "contact": {
+      "name": "Eartha Beresford",
+      "phone": "857-157-0038",
+      "email": "eberesford42@mac.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/347141/pexels-photo-347141.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Texas",
+    "country": "United States",
+    "location": "554 Loomis Place",
+    "property Name": "The Regal Residency",
+    "when": "Immediate",
+    "price": 1950,
+    "property_type": "Villa",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size": 2500,
+    "amenities": ["Laundry Facilities"],
+    "contact": {
+      "name": "Bianka Troillet",
+      "phone": "512-706-3784",
+      "email": "btroillet43@phoca.cz"
+    },
+    "imageURL": "https://images.pexels.com/photos/2119714/pexels-photo-2119714.jpeg"
+  },
+  {
+    "state": "Virginia",
+    "country": "United States",
+    "location": "7 Canary Lane",
+    "property Name": "The Platinum Penthouse",
+    "when": "After 3 months",
+    "price": 2151,
+    "property_type": "House",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "size": 5000,
+    "amenities": ["Backyard", "Garage", "Swimming Pool"],
+    "contact": {
+      "name": "Fernando Driver",
+      "phone": "571-255-9473",
+      "email": "fdriver44@upenn.edu"
+    },
+    "imageURL": "https://images.pexels.com/photos/209296/pexels-photo-209296.jpeg"
+  },
+  {
+    "state": "Minnesota",
+    "country": "United States",
+    "location": "71882 Blackbird Plaza",
+    "property Name": "The Golden Gatehouse",
+    "when": "After 3 months",
+    "price": 1947,
+    "property_type": "House",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "size": 3000,
+    "amenities": ["Garden", "Air Conditioning", "Garage"],
+    "contact": {
+      "name": "Corri Fordyce",
+      "phone": "763-173-9653",
+      "email": "cfordyce45@wsj.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "California",
+    "country": "United States",
+    "location": "57385 Sycamore Pass",
+    "property Name": "The Signature Suite",
+    "when": "Immediate",
+    "price": 1377,
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "size": 4000,
+    "amenities": ["Balcony", "Garden", "Laundry Facilities"],
+    "contact": {
+      "name": "Ximenes Pordall",
+      "phone": "916-570-7184",
+      "email": "xpordall46@unicef.org"
+    },
+    "imageURL": "https://images.pexels.com/photos/542403/pexels-photo-542403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Utah",
+    "country": "United States",
+    "location": "1236 Mitchell Plaza",
+    "property Name": "The Prestige Palace",
+    "when": "After 3 months",
+    "price": 2021,
+    "property_type": "House",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size": 5000,
+    "amenities": ["Swimming Pool", "Air Conditioning"],
+    "contact": {
+      "name": "Vernen Buggs",
+      "phone": "801-702-4945",
+      "email": "vbuggs47@paginegialle.it"
+    },
+    "imageURL": "https://images.pexels.com/photos/2816323/pexels-photo-2816323.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Arizona",
+    "country": "United States",
+    "location": "0736 Butterfield Crossing",
+    "property Name": "The Velvet Vista",
+    "when": "After 3 months",
+    "price": 1798,
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size": 3500,
+    "amenities": ["Laundry Facilities", "Backyard"],
+    "contact": {
+      "name": "Michaelina Pickrill",
+      "phone": "928-801-7927",
+      "email": "mpickrill48@omniture.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/3221215/pexels-photo-3221215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Kansas",
+    "country": "United States",
+    "location": "49 Marcy Parkway",
+    "property Name": "The Iris Indigo",
+    "when": "After 2 months",
+    "price": 1164,
+    "property_type": "House",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size": 5000,
+    "amenities": ["Swimming Pool"],
+    "contact": {
+      "name": "Lilias Tollmache",
+      "phone": "913-112-3181",
+      "email": "ltollmache49@e-recht24.de"
+    },
+    "imageURL": "https://images.pexels.com/photos/814830/pexels-photo-814830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Indiana",
+    "country": "United States",
+    "location": "1675 Goodland Place",
+    "property Name": "The Whispering Willows",
+    "when": "Immediate",
+    "price": 1992,
+    "property_type": "Villa",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size": 5000,
+    "amenities": ["Garage"],
+    "contact": {
+      "name": "Celina Hallwood",
+      "phone": "317-222-7196",
+      "email": "challwood4a@squidoo.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2886284/pexels-photo-2886284.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Texas",
+    "country": "United States",
+    "location": "60347 Golf View Drive",
+    "property Name": "The Luminescent Lagoon",
+    "when": "Immediate",
+    "price": 1288,
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size": 3500,
+    "amenities": ["Laundry Facilities", "Garden"],
+    "contact": {
+      "name": "Batholomew Cancutt",
+      "phone": "325-536-1684",
+      "email": "bcancutt4b@boston.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2121832/pexels-photo-2121832.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Florida",
+    "country": "United States",
+    "location": "9 Texas Parkway",
+    "property Name": "The Celestial Citadel",
+    "when": "Next month",
+    "price": 976,
+    "property_type": "Apartment",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "size": 1400,
+    "amenities": ["Fireplace", "Garden", "Swimming Pool"],
+    "contact": {
+      "name": "Myriam Berni",
+      "phone": "863-391-0068",
+      "email": "mberni4c@t-online.de"
+    },
+    "imageURL": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Colorado",
+    "country": "United States",
+    "location": "761 Dunning Hill",
+    "property Name": "The Enchanted Evergreen",
+    "when": "After 2 months",
+    "price": 2129,
+    "property_type": "House",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "size": 5000,
+    "amenities": ["Laundry Facilities", "Garage", "Backyard"],
+    "contact": {
+      "name": "Egor Killner",
+      "phone": "303-305-3948",
+      "email": "ekillner4d@mashable.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/1115804/pexels-photo-1115804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Delaware",
+    "country": "United States",
+    "location": "28 Anthes Pass",
+    "property Name": "The Golden Grotto",
+    "when": "Next month",
+    "price": 1668,
+    "property_type": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "size": 1400,
+    "amenities": ["Air Conditioning", "Balcony", "Garage"],
+    "contact": {
+      "name": "Abbe Kirkpatrick",
+      "phone": "302-917-2602",
+      "email": "akirkpatrick4e@deliciousdays.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/347141/pexels-photo-347141.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Texas",
+    "country": "United States",
+    "location": "14 Gerald Road",
+    "property Name": "The Amethyst Arbour",
+    "when": "After 3 months",
+    "price": 1400,
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "size": 1400,
+    "amenities": ["Air Conditioning", "Laundry Facilities", "Garage"],
+    "contact": {
+      "name": "Dorene Robelow",
+      "phone": "806-962-3369",
+      "email": "drobelow4f@a8.net"
+    },
+    "imageURL": "https://images.pexels.com/photos/2119714/pexels-photo-2119714.jpeg"
+  },
+  {
+    "state": "Washington",
+    "country": "United States",
+    "location": "74 Milwaukee Junction",
+    "property Name": "The Silken Symphony",
+    "when": "After 3 months",
+    "price": 1358,
+    "property_type": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size": 3000,
+    "amenities": ["Air Conditioning"],
+    "contact": {
+      "name": "Vicky Faustian",
+      "phone": "360-480-9208",
+      "email": "vfaustian4g@mapquest.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/209296/pexels-photo-209296.jpeg"
+  },
+  {
+    "state": "California",
+    "country": "United States",
+    "location": "814 Lindbergh Alley",
+    "property Name": "The Radiant Retreat",
+    "when": "After 3 months",
+    "price": 1376,
+    "property_type": "House",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "size": 3500,
+    "amenities": ["Fireplace", "Swimming Pool"],
+    "contact": {
+      "name": "Darice Gwioneth",
+      "phone": "805-989-5525",
+      "email": "dgwioneth4h@utexas.edu"
+    },
+    "imageURL": "https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "California",
+    "country": "United States",
+    "location": "020 Hauk Park",
+    "property Name": "The Opulent Oasis",
+    "when": "Next month",
+    "price": 1495,
+    "property_type": "House",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "size": 3000,
+    "amenities": ["Garage", "Balcony"],
+    "contact": {
+      "name": "Cullan Potebury",
+      "phone": "909-268-4468",
+      "email": "cpotebury4i@example.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/542403/pexels-photo-542403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "California",
+    "country": "United States",
+    "location": "2 Oakridge Park",
+    "property Name": "The Majestic Mile",
+    "when": "After 2 months",
+    "price": 1592,
+    "property_type": "House",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size": 3000,
+    "amenities": ["Backyard"],
+    "contact": {
+      "name": "Madeline Bilfoot",
+      "phone": "562-101-7989",
+      "email": "mbilfoot4j@studiopress.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2816323/pexels-photo-2816323.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "North Carolina",
+    "country": "United States",
+    "location": "87 Boyd Trail",
+    "property Name": "The Elite Enclave",
+    "when": "Next month",
+    "price": 1875,
+    "property_type": "House",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size": 5000,
+    "amenities": ["Garden", "Laundry Facilities", "Air Conditioning"],
+    "contact": {
+      "name": "Kendal Rudolph",
+      "phone": "704-403-7970",
+      "email": "krudolph4k@vimeo.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/3221215/pexels-photo-3221215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Nebraska",
+    "country": "United States",
+    "location": "4775 Vernon Hill",
+    "property Name": "The Summit Sanctuary",
+    "when": "After 3 months",
+    "price": 1150,
+    "property_type": "House",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size": 2500,
+    "amenities": ["Air Conditioning", "Balcony", "Fireplace"],
+    "contact": {
+      "name": "Sherie Jedrzejewski",
+      "phone": "402-955-6199",
+      "email": "sjedrzejewski4l@scribd.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/814830/pexels-photo-814830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Ohio",
+    "country": "United States",
+    "location": "124 Beilfuss Way",
+    "property Name": "The Regal Residency",
+    "when": "Next month",
+    "price": 1686,
+    "property_type": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size": 1800,
+    "amenities": ["Air Conditioning", "Balcony", "Backyard"],
+    "contact": {
+      "name": "Marie-jeanne Stovell",
+      "phone": "216-590-7669",
+      "email": "mstovell4m@sitemeter.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2886284/pexels-photo-2886284.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Michigan",
+    "country": "United States",
+    "location": "8861 Darwin Way",
+    "property Name": "The Platinum Penthouse",
+    "when": "Immediate",
+    "price": 1997,
+    "property_type": "House",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "size": 5000,
+    "amenities": ["Garden"],
+    "contact": {
+      "name": "Reta Gudger",
+      "phone": "313-524-9429",
+      "email": "rgudger4n@nymag.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2121832/pexels-photo-2121832.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Minnesota",
+    "country": "United States",
+    "location": "6 Hansons Trail",
+    "property Name": "The Golden Gatehouse",
+    "when": "Immediate",
+    "price": 992,
+    "property_type": "House",
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "size": 3000,
+    "amenities": ["Garage", "Laundry Facilities"],
+    "contact": {
+      "name": "Berky D'Agostini",
+      "phone": "952-706-6983",
+      "email": "bdagostini4o@ucoz.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Louisiana",
+    "country": "United States",
+    "location": "24873 Lindbergh Drive",
+    "property Name": "The Signature Suite",
+    "when": "Immediate",
+    "price": 1756,
+    "property_type": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "size": 3500,
+    "amenities": ["Garden", "Swimming Pool", "Laundry Facilities"],
+    "contact": {
+      "name": "Jenine Yerrell",
+      "phone": "504-325-5285",
+      "email": "jyerrell4p@google.com.au"
+    },
+    "imageURL": "https://images.pexels.com/photos/1115804/pexels-photo-1115804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Florida",
+    "country": "United States",
+    "location": "13989 Drewry Junction",
+    "property Name": "The Prestige Palace",
+    "when": "After 2 months",
+    "price": 1535,
+    "property_type": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "size": 2500,
+    "amenities": ["Fireplace", "Garage", "Garden"],
+    "contact": {
+      "name": "Maximilien Langdon",
+      "phone": "786-214-0243",
+      "email": "mlangdon4q@japanpost.jp"
+    },
+    "imageURL": "https://images.pexels.com/photos/347141/pexels-photo-347141.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Pennsylvania",
+    "country": "United States",
+    "location": "43705 Ridge Oak Street",
+    "property Name": "The Velvet Vista",
+    "when": "Next month",
+    "price": 1293,
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size": 1400,
+    "amenities": ["Fireplace", "Garage"],
+    "contact": {
+      "name": "Marjorie Thomkins",
+      "phone": "814-645-9905",
+      "email": "mthomkins4r@sitemeter.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2119714/pexels-photo-2119714.jpeg"
+  },
+  {
+    "state": "Kentucky",
+    "country": "United States",
+    "location": "79 Morrow Way",
+    "property Name": "The Iris Indigo",
+    "when": "Immediate",
+    "price": 1590,
+    "property_type": "House",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "size": 1400,
+    "amenities": ["Laundry Facilities"],
+    "contact": {
+      "name": "Nerta Marie",
+      "phone": "502-978-8864",
+      "email": "nmarie4s@ameblo.jp"
+    },
+    "imageURL": "https://images.pexels.com/photos/209296/pexels-photo-209296.jpeg"
+  },
+  {
+    "state": "Colorado",
+    "country": "United States",
+    "location": "34 Westport Crossing",
+    "property Name": "The Whispering Willows",
+    "when": "Next month",
+    "price": 1567,
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size": 3500,
+    "amenities": ["Backyard", "Air Conditioning", "Balcony"],
+    "contact": {
+      "name": "Mattheus Oliveira",
+      "phone": "720-750-0401",
+      "email": "moliveira4t@ebay.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Pennsylvania",
+    "country": "United States",
+    "location": "5449 Bluejay Pass",
+    "property Name": "The Luminescent Lagoon",
+    "when": "Next month",
+    "price": 2083,
+    "property_type": "House",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size": 4000,
+    "amenities": ["Laundry Facilities", "Swimming Pool"],
+    "contact": {
+      "name": "Mandy Marston",
+      "phone": "724-670-5501",
+      "email": "mmarston4u@admin.ch"
+    },
+    "imageURL": "https://images.pexels.com/photos/542403/pexels-photo-542403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Georgia",
+    "country": "United States",
+    "location": "267 Shasta Place",
+    "property Name": "The Celestial Citadel",
+    "when": "Next month",
+    "price": 1262,
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size": 5000,
+    "amenities": ["Fireplace", "Backyard", "Air Conditioning"],
+    "contact": {
+      "name": "Maura Keveren",
+      "phone": "706-761-3747",
+      "email": "mkeveren4v@zimbio.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2816323/pexels-photo-2816323.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "California",
+    "country": "United States",
+    "location": "5661 Chive Trail",
+    "property Name": "The Enchanted Evergreen",
+    "when": "Immediate",
+    "price": 956,
+    "property_type": "House",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size": 1800,
+    "amenities": ["Swimming Pool"],
+    "contact": {
+      "name": "August Stearley",
+      "phone": "510-996-7309",
+      "email": "astearley4w@vinaora.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/3221215/pexels-photo-3221215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Louisiana",
+    "country": "United States",
+    "location": "83275 Spaight Park",
+    "property Name": "The Golden Grotto",
+    "when": "Next month",
+    "price": 1529,
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size": 3000,
+    "amenities": ["Balcony", "Garage"],
+    "contact": {
+      "name": "Frederica Test",
+      "phone": "337-336-1418",
+      "email": "ftest4x@printfriendly.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/814830/pexels-photo-814830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Montana",
+    "country": "United States",
+    "location": "8839 Upham Crossing",
+    "property Name": "The Amethyst Arbour",
+    "when": "After 3 months",
+    "price": 2137,
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "size": 3000,
+    "amenities": ["Garden", "Balcony", "Swimming Pool"],
+    "contact": {
+      "name": "Sayre Hammerson",
+      "phone": "406-577-3994",
+      "email": "shammerson4y@deviantart.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2886284/pexels-photo-2886284.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "California",
+    "country": "United States",
+    "location": "3 Rockefeller Crossing",
+    "property Name": "The Silken Symphony",
+    "when": "Immediate",
+    "price": 966,
+    "property_type": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "size": 3000,
+    "amenities": ["Air Conditioning", "Garden", "Balcony"],
+    "contact": {
+      "name": "Janeta Yatman",
+      "phone": "909-214-4523",
+      "email": "jyatman4z@cam.ac.uk"
+    },
+    "imageURL": "https://images.pexels.com/photos/2121832/pexels-photo-2121832.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Florida",
+    "country": "United States",
+    "location": "427 Nevada Terrace",
+    "property Name": "The Radiant Retreat",
+    "when": "After 3 months",
+    "price": 1375,
+    "property_type": "House",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size": 1400,
+    "amenities": ["Balcony", "Laundry Facilities"],
+    "contact": {
+      "name": "Hamel Cowhig",
+      "phone": "904-161-4197",
+      "email": "hcowhig50@jiathis.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "New York",
+    "country": "United States",
+    "location": "6861 Northfield Parkway",
+    "property Name": "The Opulent Oasis",
+    "when": "After 3 months",
+    "price": 1638,
+    "property_type": "Apartment",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "size": 3500,
+    "amenities": ["Balcony", "Garage", "Air Conditioning"],
+    "contact": {
+      "name": "Roselia Marrow",
+      "phone": "718-855-0045",
+      "email": "rmarrow51@google.nl"
+    },
+    "imageURL": "https://images.pexels.com/photos/1115804/pexels-photo-1115804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Kentucky",
+    "country": "United States",
+    "location": "9 Stephen Point",
+    "property Name": "The Majestic Mile",
+    "when": "After 3 months",
+    "price": 969,
+    "property_type": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size": 1800,
+    "amenities": ["Backyard", "Fireplace", "Swimming Pool"],
+    "contact": {
+      "name": "Goober Filimore",
+      "phone": "502-528-5501",
+      "email": "gfilimore52@istockphoto.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/347141/pexels-photo-347141.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "California",
+    "country": "United States",
+    "location": "1 Londonderry Alley",
+    "property Name": "The Elite Enclave",
+    "when": "Next month",
+    "price": 1576,
+    "property_type": "Villa",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "size": 1400,
+    "amenities": ["Garage"],
+    "contact": {
+      "name": "Guido Schwartz",
+      "phone": "323-223-9362",
+      "email": "gschwartz53@techcrunch.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2119714/pexels-photo-2119714.jpeg"
+  },
+  {
+    "state": "California",
+    "country": "United States",
+    "location": "35 Chive Hill",
+    "property Name": "The Summit Sanctuary",
+    "when": "Immediate",
+    "price": 1133,
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "size": 3000,
+    "amenities": ["Swimming Pool"],
+    "contact": {
+      "name": "Dorrie Jersch",
+      "phone": "714-592-5251",
+      "email": "djersch54@samsung.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/209296/pexels-photo-209296.jpeg"
+  },
+  {
+    "state": "Texas",
+    "country": "United States",
+    "location": "4 John Wall Trail",
+    "property Name": "The Regal Residency",
+    "when": "Immediate",
+    "price": 1578,
+    "property_type": "Villa",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size": 1800,
+    "amenities": ["Balcony", "Fireplace", "Air Conditioning"],
+    "contact": {
+      "name": "Bridie Bosquet",
+      "phone": "915-853-2821",
+      "email": "bbosquet55@psu.edu"
+    },
+    "imageURL": "https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Texas",
+    "country": "United States",
+    "location": "9411 Maywood Avenue",
+    "property Name": "The Platinum Penthouse",
+    "when": "After 2 months",
+    "price": 1226,
+    "property_type": "Apartment",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "size": 1800,
+    "amenities": ["Laundry Facilities", "Garden"],
+    "contact": {
+      "name": "Susi Woofenden",
+      "phone": "682-305-6319",
+      "email": "swoofenden56@usnews.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/542403/pexels-photo-542403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Florida",
+    "country": "United States",
+    "location": "292 Harbort Avenue",
+    "property Name": "The Golden Gatehouse",
+    "when": "Immediate",
+    "price": 1683,
+    "property_type": "House",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "size": 5000,
+    "amenities": ["Garage", "Air Conditioning"],
+    "contact": {
+      "name": "Gabe Teers",
+      "phone": "904-174-6230",
+      "email": "gteers57@trellian.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2816323/pexels-photo-2816323.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "California",
+    "country": "United States",
+    "location": "1 Arrowood Point",
+    "property Name": "The Signature Suite",
+    "when": "Next month",
+    "price": 1243,
+    "property_type": "House",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size": 1400,
+    "amenities": ["Garage", "Laundry Facilities"],
+    "contact": {
+      "name": "Phedra Titman",
+      "phone": "714-945-3739",
+      "email": "ptitman58@tmall.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/3221215/pexels-photo-3221215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Louisiana",
+    "country": "United States",
+    "location": "8 Mallory Parkway",
+    "property Name": "The Prestige Palace",
+    "when": "Immediate",
+    "price": 1215,
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "size": 3500,
+    "amenities": ["Backyard", "Garden", "Fireplace"],
+    "contact": {
+      "name": "Lucina Lesper",
+      "phone": "504-286-7591",
+      "email": "llesper59@squidoo.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/814830/pexels-photo-814830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "California",
+    "country": "United States",
+    "location": "1073 Kedzie Hill",
+    "property Name": "The Velvet Vista",
+    "when": "Immediate",
+    "price": 1423,
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "size": 1400,
+    "amenities": ["Garden"],
+    "contact": {
+      "name": "Garik Milleton",
+      "phone": "559-682-6284",
+      "email": "gmilleton5a@dedecms.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2886284/pexels-photo-2886284.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "West Virginia",
+    "country": "United States",
+    "location": "7327 Spohn Point",
+    "property Name": "The Iris Indigo",
+    "when": "After 3 months",
+    "price": 1862,
+    "property_type": "House",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "size": 3000,
+    "amenities": ["Swimming Pool"],
+    "contact": {
+      "name": "Bev Dundon",
+      "phone": "304-384-1826",
+      "email": "bdundon5b@printfriendly.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2121832/pexels-photo-2121832.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "District of Columbia",
+    "country": "United States",
+    "location": "813 Oxford Alley",
+    "property Name": "The Whispering Willows",
+    "when": "After 3 months",
+    "price": 1033,
+    "property_type": "House",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "size": 3000,
+    "amenities": ["Garage", "Air Conditioning", "Laundry Facilities"],
+    "contact": {
+      "name": "Wendall Squires",
+      "phone": "202-443-4735",
+      "email": "wsquires5c@un.org"
+    },
+    "imageURL": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Ohio",
+    "country": "United States",
+    "location": "39 Forster Lane",
+    "property Name": "The Luminescent Lagoon",
+    "when": "After 3 months",
+    "price": 2154,
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "size": 1800,
+    "amenities": ["Fireplace", "Garden", "Air Conditioning"],
+    "contact": {
+      "name": "Ryley Skeermor",
+      "phone": "419-939-7588",
+      "email": "rskeermor5d@google.com.hk"
+    },
+    "imageURL": "https://images.pexels.com/photos/1115804/pexels-photo-1115804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Georgia",
+    "country": "United States",
+    "location": "1750 Mccormick Park",
+    "property Name": "The Celestial Citadel",
+    "when": "Next month",
+    "price": 1174,
+    "property_type": "Apartment",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "size": 5000,
+    "amenities": ["Backyard", "Garden", "Fireplace"],
+    "contact": {
+      "name": "Verina Glossup",
+      "phone": "678-751-8612",
+      "email": "vglossup5e@auda.org.au"
+    },
+    "imageURL": "https://images.pexels.com/photos/347141/pexels-photo-347141.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Ohio",
+    "country": "United States",
+    "location": "7591 Fulton Drive",
+    "property Name": "The Enchanted Evergreen",
+    "when": "Immediate",
+    "price": 1507,
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size": 5000,
+    "amenities": ["Garage", "Garden"],
+    "contact": {
+      "name": "Roxane Crossthwaite",
+      "phone": "614-390-8870",
+      "email": "rcrossthwaite5f@hud.gov"
+    },
+    "imageURL": "https://images.pexels.com/photos/2119714/pexels-photo-2119714.jpeg"
+  },
+  {
+    "state": "Texas",
+    "country": "United States",
+    "location": "5 Sommers Place",
+    "property Name": "The Golden Grotto",
+    "when": "Next month",
+    "price": 1691,
+    "property_type": "House",
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "size": 1400,
+    "amenities": ["Laundry Facilities", "Garden"],
+    "contact": {
+      "name": "Hamil Seyffert",
+      "phone": "915-390-5855",
+      "email": "hseyffert5g@wikimedia.org"
+    },
+    "imageURL": "https://images.pexels.com/photos/209296/pexels-photo-209296.jpeg"
+  },
+  {
+    "state": "Arkansas",
+    "country": "United States",
+    "location": "69508 Green Park",
+    "property Name": "The Amethyst Arbour",
+    "when": "After 3 months",
+    "price": 1840,
+    "property_type": "House",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "size": 5000,
+    "amenities": ["Garage", "Swimming Pool"],
+    "contact": {
+      "name": "Barri Burchess",
+      "phone": "501-291-3661",
+      "email": "bburchess5h@storify.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "Michigan",
+    "country": "United States",
+    "location": "4 Sage Avenue",
+    "property Name": "The Silken Symphony",
+    "when": "After 3 months",
+    "price": 1325,
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size": 1400,
+    "amenities": ["Backyard", "Balcony", "Garden"],
+    "contact": {
+      "name": "Ginger Hargess",
+      "phone": "231-124-1242",
+      "email": "ghargess5i@mit.edu"
+    },
+    "imageURL": "https://images.pexels.com/photos/542403/pexels-photo-542403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "state": "California",
+    "country": "United States",
+    "location": "398 Merry Lane",
+    "property Name": "The Radiant Retreat",
+    "when": "Next month",
+    "price": 1258,
+    "property_type": "Apartment",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "size": 3000,
+    "amenities": ["Garage", "Balcony", "Laundry Facilities"],
+    "contact": {
+      "name": "Stepha Foster-Smith",
+      "phone": "510-859-6223",
+      "email": "sfostersmith5j@howstuffworks.com"
+    },
+    "imageURL": "https://images.pexels.com/photos/2816323/pexels-photo-2816323.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  }
+]
