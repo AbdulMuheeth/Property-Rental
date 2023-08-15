@@ -14,7 +14,7 @@ const FilterIndex = () => {
     propertyTypes
   ) => {
     // copying the dummy (shallow copy)
-    let copyProps = [...properties];
+    let copyProps = [...data];
 
     // filtering only when atleast one location is specified
     if (locations.length !== 0) {
